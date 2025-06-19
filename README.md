@@ -10,5 +10,3 @@ Este projeto foi desenvolvido para o [CrowPanel Advance 7.0" HMI da Elecrow](htt
 ## Como compilar
 - Requisitos: ESP-IDF, VSCode, Python 3.10
 - Instruções: `idf.py build && idf.py flash`
-
-## Status: Em desenvolvimento
